@@ -1,0 +1,46 @@
+{{- define "main" }}
+<!-- Block0 -->
+<div class="row rounded about">
+    <div class="col-md-12">
+       <!-- <img class="rounded" src="{{ .Params.about.image }}"> -->
+    </div>
+    <div class="col-md-12">
+        <p class="text-center about-text">
+            {{ .Params.about.text }}
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <h1 class="text-center crew-title">{{ .Params.blocks_title }}</h1>
+    </div>
+</div>
+<!-- Block1 -->
+<div class="row block rounded">
+    <div class="col-md-6 d-flex flex-wrap align-items-center">
+        <img class="rounded" src="{{ .Params.block1.image }}">
+    </div>
+    <div class="col-md-6 d-flex flex-wrap align-items-center">
+        <p>{{ .Params.block1.text }}</p>
+    </div>
+</div>
+<!-- Block2 -->
+<div class="row block rounded">
+    <div class="col-md-6 d-flex flex-wrap align-items-center">
+        <p>{{ .Params.block2.text }}</p>
+    </div>
+    <div class="col-md-6 d-flex flex-wrap align-items-center">
+        <img class="rounded" src="{{ .Params.block2.image }}">
+    </div>
+</div>
+<!-- Block3 -->
+<div class="row block rounded">
+    <div class="col-md-6 d-flex flex-wrap align-items-center" >
+        <img class="rounded" src="{{ .Params.block3.image }}">
+    </div>
+    <div class="col-md-6 d-flex flex-wrap align-items-center">
+        <p>{{ .Params.block3.text }}</p>
+    </div>
+</div>
+
+{{- end }}{{- /* end main */ -}}

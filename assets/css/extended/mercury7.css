@@ -1,15 +1,51 @@
-body.list, body.list.dark{ 
-    background: url(../../../images/bg1.jpg) no-repeat center center fixed; 
+/** OVERRIDE **/
+body.list, body.list.dark{
+    background: url(../../../images/bg-space.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: "Megrim", system-ui;
+    font-weight: 800;
+    font-size: 1.3rem;
+    letter-spacing: 0.3rem;
   }
+img{
+    opacity: 0.8;
+}
+.main{
+  max-width: 100%;
+}
+.dark main{
+background: rgba(0,0,0,0.8);
+}
+/** CUSTOM STYLES **/
 
-  main{
+/* font */
+.megrim-regular {
+    font-family: "Megrim", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.about{
+    background: url(/images/bg1.jpg) no-repeat !important;
+    background-size: 100% !important;
+    background-position-y: center !important;
+}
+.about-text{
+    color: white;
+    font-weight: bold;
+}
+.block{
     background: rgba(255,255,255,0.8);
-  }
-
-  .dark main{
-    background: rgba(0,0,0,0.8);
-  }
+    margin: 2rem;
+    padding: 1.5rem;
+}
+.crew-title{
+    font-size: 5rem;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 3rem;
+    text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
+    1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+}

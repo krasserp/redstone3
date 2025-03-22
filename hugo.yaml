@@ -2,4 +2,9 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Mercury 7
 theme: ["github.com/adityatelange/hugo-PaperMod"]
-
+params:
+  logo:
+    url: /images/logo.png  # Path to your logo image
+    width: 30              # Optional: Width of the logo
+    height: 30             # Optional: Height of the logo
+    alt: "My Logo"         # Optional: Alt text for the logo

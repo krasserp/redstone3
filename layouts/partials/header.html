@@ -1,0 +1,18 @@
+<header>
+  <nav class="nav">
+    <!-- Add your logo here -->
+    <a href="{{ .Site.Home.Permalink }}" class="nav-logo">
+      <img src="{{ .Site.Params.logo.url }}"
+           alt="{{ .Site.Params.logo.alt }}"
+           width="{{ .Site.Params.logo.width }}"
+           height="{{ .Site.Params.logo.height }}">
+    </a>
+
+    <!-- Existing menu items -->
+    {{- if .Site.Menus.main }}
+    {{- range .Site.Menus.main }}
+    <a href="{{ .URL }}" class="nav-link">{{ .Name }}</a>
+    {{- end }}
+    {{- end }}
+  </nav>
+</header>
