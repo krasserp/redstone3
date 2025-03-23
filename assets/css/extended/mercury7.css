@@ -1,37 +1,50 @@
 /** OVERRIDE **/
-body.list, body.list.dark{
-    background: url(../../../images/bg-space.jpg) no-repeat center center fixed;
+body#top {
+    background: url(../../../images/bg-space.jpg) no-repeat center center fixed !important;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    font-family: "Megrim", system-ui;
-    font-weight: 800;
-    font-size: 1.3rem;
     letter-spacing: 0.3rem;
   }
-img{
-    opacity: 0.8;
-}
+
 .main{
   max-width: 100%;
 }
 .dark main{
 background: rgba(0,0,0,0.8);
 }
+body#top .main {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: rgba(255,255,255,.8);
+    border-radius: .5rem;
+    border: .5rem solid rgba(0,0,0,.8);
+}
 /** CUSTOM STYLES **/
 
 /* font */
-.megrim-regular {
+h1,h2,h3,h4,h5,h6,button, .button-inner{ 
     font-family: "Megrim", system-ui;
-    font-weight: 400;
+    font-weight: 900;
     font-style: normal;
 }
-.about{
-    background: url(/images/bg1.jpg) no-repeat !important;
-    background-size: 100% !important;
-    background-position-y: center !important;
+.button, .button-inner{
+    color: #181818;
 }
+.button-inner:hover{
+    color: #f1f1f1;
+}
+a.button{
+    background: #f1f1f1;
+    color: #181818;
+}
+a.button:hover{
+    background: #181818; 
+    color:#f1f1f1;
+}
+
 .about-text{
     color: white;
     font-weight: bold;
