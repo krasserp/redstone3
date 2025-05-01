@@ -1,5 +1,5 @@
 ---
-title: "Mercury 7"
+title: "Redstone 3"
 date: 2025-03-22
 ---
 

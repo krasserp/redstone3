@@ -62,3 +62,11 @@ a.button:hover{
     text-shadow: 2px 0 #000000, -2px 0 #000000, 0 2px #000000, 0 -2px #000000,
     1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
 }
+
+.profile img{
+    border-radius:0px;
+}
+
+.profile h1{
+    display: none;
+}

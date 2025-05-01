@@ -1,16 +1,16 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Mercury 7
+title: Redstone 3
 theme: ["github.com/adityatelange/hugo-PaperMod"]
 params:
   profileMode:
     enabled: true
-    title: "Mercury 7" # Profile title
+    title: "Redstone 3" # Profile title
     subtitle: "An Englishman, an Italian, and an Austrian walk into a bar..."
     imageUrl: "/images/logo1.png" # Path to your profile picture
-    imageTitle: "Mercury 7" # Title of your profile picture
-    imageWidth: 120
-    imageHeight: 120
+    imageTitle: "Redstone 3" # Title of your profile picture
+    imageWidth: 550
+    imageHeight: 180
     buttons:
       - name: About
         url: "/about"
