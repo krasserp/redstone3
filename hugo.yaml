@@ -9,14 +9,14 @@ params:
     subtitle: "An Englishman, an Italian, and an Austrian walk into a bar..."
     imageUrl: "/images/logo1.png" # Path to your profile picture
     imageTitle: "Redstone 3" # Title of your profile picture
-    imageWidth: 550
-    imageHeight: 180
+    imageWidth: 100%
+    imageHeight: auto
     buttons:
       - name: About
         url: "/about"
 
   logo:
     url: /images/logo1.png  # Path to your logo image
-    width: 30              # Optional: Width of the logo
-    height: 30             # Optional: Height of the logo
-    alt: "My Logo"         # Optional: Alt text for the logo
+    width: 120px              # Optional: Width of the logo
+    height: auto             # Optional: Height of the logo
+    alt: "Redstone 3"         # Optional: Alt text for the logo
