@@ -2,9 +2,13 @@ baseURL: https://example.org/
 languageCode: en-us
 title: Redstone 3
 theme: ["github.com/adityatelange/hugo-PaperMod"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   profileMode:
-    enabled: true
+    enabled: false
     title: "Redstone 3" # Profile title
     subtitle: "An Englishman, an Italian, and an Austrian walk into a bar..."
     imageUrl: "/images/logo1.png" # Path to your profile picture
@@ -14,6 +18,12 @@ params:
     buttons:
       - name: About
         url: "/about"
+      - name: News
+        url: "/news"
+      - name: Music
+        url: "/music"
+      - name: Contact
+        url: "/contact"
 
   logo:
     url: /images/logo1.png  # Path to your logo image
