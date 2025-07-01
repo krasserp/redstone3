@@ -7,6 +7,7 @@ markup:
     renderer:
       unsafe: true
 params:
+  defaultTheme: "dark" 
   profileMode:
     enabled: false
     title: "Redstone 3" # Profile title

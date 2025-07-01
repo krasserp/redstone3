@@ -3,20 +3,20 @@ title: 'Redstone 3'
 date: 2025-03-22
 ---
 
-![ Logo ](/images/logo1.png)
+![ Logo ](/images/Redstone3font.png)
 
 Redstone 3 is an alternative punk band based in Gran Canaria. Founded by Phil (bass/vocals) and Grischer (guitar/vocals), the band draws on decades of experience in the London, Bristol, Rome, and European underground scenes. Known for their high-energy sound and dual-lead approach, Redstone 3 features a rotating lineup of drummers and a cross-cultural blend of raw rock, punk, and grunge influences.
 
-### Bass/Vox
-
-on bass—and also taking the mic when the mood strikes—the Austrian- bringing low-end thunder and riffs that could shake the Alps.
-![ Phil ](/images/Phil001.png)
 
 ### Guitar/Vox
 
 On guitar and vocals, the Italian- a rock 'n' roll virtuoso whose riffs are as fiery as his espresso and whose voice is smoother than a gondola ride at sunset.
 ![ Alberto ](/images/Alberto001.png)
 
+### Bass/Vox
+
+on bass—and also taking the mic when the mood strikes—the Austrian- bringing low-end thunder and riffs that could shake the Alps.
+![ Phil ](/images/Phil001.png)
 
 ### Drums
 
