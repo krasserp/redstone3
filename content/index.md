@@ -6,7 +6,7 @@ date: 2025-06-22
 ![ Logo ](/images/Redstone3font.png)
 
 ## News
-
+Debut Single Drops August 29th.
 Pre-save Magic Places now & help us spread the word!
 <a href="https://ditto.fm/magic-places">Pre-save 'Magic Places'</a>
 
