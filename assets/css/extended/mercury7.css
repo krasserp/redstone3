@@ -18,9 +18,9 @@ body#top .main {
   max-width: 960px;
   margin: 0 auto;
   padding: 2rem;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
   border-radius: 0.5rem;
-  border: 0.5rem solid rgba(0, 0, 0, 0.8);
+ /* border: 0.5rem solid rgba(0, 0, 0, 0.8);*/
 }
 /** CUSTOM STYLES **/
 
@@ -94,8 +94,13 @@ a {
 .nav a {
   display: block;
   padding: 1rem;
-  background:none;
+  background: none;
   margin: 0.5rem;
   padding: 0.4rem 1rem;
   border-radius: 0.5rem;
+}
+@media (max-width: 480px) {
+  .nav {
+    margin-bottom: 50vh !important;
+  }
 }

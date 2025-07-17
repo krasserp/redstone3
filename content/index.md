@@ -11,7 +11,7 @@ Pre-save Magic Places now & help us spread the word!
 <a href="https://ditto.fm/magic-places">Pre-save 'Magic Places'</a>
 
 ### About 
-Redstone 3 is a genre-bending collective of weathered souls and sonic architects who’ve lived many lives — from gritty tours across Europe to the fluorescent grind of overwork. Now based in Gran Canaria, they create emotionally raw, spiritually charged music rooted in grunge, post-rock, ambient textures, and soul-first storytelling.
+Redstone 3 is a genre-bending collective of weathered souls and sonic architects who’ve lived many lives — from gritty tours across Europe to the fluorescent grind of overwork. Now based in Gran Canaria, they create emotionally raw, spiritually charged music rooted in grunge, post-rock, with ambient textures, and soul-first storytelling.
 
 Formed by ex-city musicians who traded burnout for becoming, Redstone 3 explores inner peace, rebellion, love, and cosmic truth. With roots in Bristol, London, Vienna, Buenos Aries, Madrid and Rome, their sound is both global and grounded — dark and mysterious, yet hopeful and healing.
 
