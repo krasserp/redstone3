@@ -163,5 +163,5 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 
-{{- partial "partials/templates/schema_json.html" . }}
+{{- partial "templates/schema_json.html" . }}
 {{- end -}}
