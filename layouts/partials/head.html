@@ -163,7 +163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 {{- /* Misc */}}
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 {{- template "_internal/google_analytics.html" . }}
-{{- template "partials/templates/opengraph.html" . }}
-{{- template "partials/templates/twitter_cards.html" . }}
+{{- partial "templates/templates/opengraph.html" . }}
+{{- partial "templates/templates/twitter_cards.html" . }}
 {{- partial "templates/schema_json.html" . }}
 {{- end -}}
