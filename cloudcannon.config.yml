@@ -1,0 +1,3 @@
+static_site_generator: hugo
+hugo:
+  version: 0.146.0
