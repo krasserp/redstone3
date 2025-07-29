@@ -18,9 +18,12 @@ Formed by ex-city musicians who traded burnout for becoming, Redstone 3 explores
 Redstone 3 isn’t just a band. It’s what happens when you remember who you were before the world got loud.
 
 
+### Be the first to know about news:
+{{< newsletter >}}
 
 
 #### Get in touch
 [Send Email](mailto:info@redstone3.com)
 
 <a href="https://linktr.ee/redstone_3" target="_blank">linktr.ee/redstone_3</a>
+

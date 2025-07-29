@@ -104,3 +104,15 @@ a {
     margin-bottom: 50vh !important;
   }
 }
+
+form input[type='text'],
+form input[type='email'], form input:autofill{
+    background: rgba(255, 255, 255, 0.5)!important;
+    padding: 0.2rem !important
+}
+
+form button{
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    border-radius: 0.5rem;
+}
