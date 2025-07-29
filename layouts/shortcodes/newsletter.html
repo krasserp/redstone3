@@ -1,28 +1,12 @@
-<form action="/thankyou" method="POST" id="redstone3-newsletter-form" class="newsletter">
+<form action="/thankyou" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name"><br><br>
 
   <label for="email">Email:</label><br>
   <input type="email" id="email" name="email" required><br><br>
-  <input type="hidden" name="inbox_key" value="test-pk-inbox">
-  <button
-              class="g-recaptcha"
-              data-sitekey="6LeGcU0rAAAAACLknP4i3_EeZyuHFqnvWxcLZu1u"
-              data-callback="onSubmit"
-              data-action="submit"
-            >
-              Sign me up
-            </button>
+  <input type="hidden" name="inbox_key" value="redstone-3">
+  <button type="submit">sign me up</button>
   
 </form>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
-function onSubmit(token) {
-  console.log('Captcha token:', token, 'trying to submit form');
-  const form = document.getElementById('redstone3-newsletter-form');
-  form.requestSubmit(); // triggers native validation
-}
-
-</script>
 
