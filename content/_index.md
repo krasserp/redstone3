@@ -7,6 +7,7 @@ date: 2025-06-22
 
 ## News
 Debut Single Drops August 29th.
+{{< youtubeplaylist >}}
 Pre-save Magic Places now & help us spread the word!
 <a href="https://ditto.fm/magic-places">Pre-save 'Magic Places'</a>
 
@@ -18,7 +19,7 @@ Formed by ex-city musicians who traded burnout for becoming, Redstone 3 explores
 Redstone 3 isn’t just a band. It’s what happens when you remember who you were before the world got loud.
 
 
-### Be the first to know about news:
+### Join our mailing list:
 {{< newsletter >}}
 
 

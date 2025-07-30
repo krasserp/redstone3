@@ -1,0 +1,4 @@
+input#name:-webkit-autofill, textarea:-webkit-autofill{
+      background: rgba(255, 255, 255, 0.3)!important;
+      padding: 0.2rem !important;
+}
