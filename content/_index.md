@@ -23,8 +23,9 @@ Redstone 3 isn’t just a band. It’s what happens when you remember who you we
 {{< newsletter >}}
 
 
-#### Get in touch
-[Send Email](mailto:info@redstone3.com)
+<h3 style="text-align: center;">Stay in touch</h3>
 
-<a href="https://linktr.ee/redstone_3" target="_blank">linktr.ee/redstone_3</a>
+
+{{< social-icons >}}
+
 
