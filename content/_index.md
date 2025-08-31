@@ -7,7 +7,7 @@ date: 2025-08-31
 
 ## News
 Magic Places is OUT NOW! <br> 
-Stream it on your favourite platfrom <a href="https://ditto.fm/magic-places">'Magic Places'</a>
+Stream it on your favourite platfrom <a href="https://ditto.fm/magic-places" target="_blank">'Magic Places'</a>
 
 {{< youtubeplaylist >}}
 
