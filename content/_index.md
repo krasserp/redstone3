@@ -1,15 +1,16 @@
 ---
 title: 'Redstone 3'
-date: 2025-06-22
+date: 2025-08-31
 ---
 
 ![ Logo ](/images/Redstone3font.png)
 
 ## News
-Debut Single Drops August 29th.
+Magic Places is OUT NOW! <br> 
+Stream it on your favourite platfrom <a href="https://ditto.fm/magic-places">'Magic Places'</a>
+
 {{< youtubeplaylist >}}
-Pre-save Magic Places now & help us spread the word!
-<a href="https://ditto.fm/magic-places">Pre-save 'Magic Places'</a>
+
 
 ### About 
 Redstone 3 is a genre-bending collective of weathered souls and sonic architects who’ve lived many lives — from gritty tours across Europe to the fluorescent grind of overwork. Now based in Gran Canaria, they create emotionally raw, spiritually charged music rooted in grunge, post-rock, with ambient textures, and soul-first storytelling.
