@@ -1,7 +1,9 @@
-baseURL: https://example.org/
+baseURL: https://redstone3.com/
 languageCode: en-us
 title: Redstone 3
 theme: ["github.com/adityatelange/hugo-PaperMod"]
+disableKinds:
+  - RSS
 markup:
   goldmark:
     renderer:
